@@ -14,7 +14,7 @@ _website design project_
 
 This project is for educational porpuses only. 
 
-Site published at: https://github.io/janusonyte/03-astronautas/
+Site published at: https://janusonyte.github.io/03-astronautas/
 
 Design: [Astronautas](https://dribbble.com/shots/5964475/attachments/5964475-404-Lost-in-Space?mode=media)
 
