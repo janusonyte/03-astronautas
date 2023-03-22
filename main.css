@@ -60,8 +60,15 @@ body {
     font-weight: normal;
 }
 
+.title::after {
+    content: '';
+    display: block;
+    width: 100px;
+    height: 5px;
+    background-color: #662b8c;
+}
+
 .description {
-    /* to be filled */
 }
 
 .btn {
@@ -107,8 +114,9 @@ body {
 }
 
 .social-link {
-    color: red;
+    color: #662b8c;
     font-size: 30px;
+    text-decoration: none;
 }
 
 .copyright {
